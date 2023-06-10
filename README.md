@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **taimurey/taimurey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a backend engineer specialized in Rust and machine learning, passionate about cloud development and web3 off-chain protocols.
+
+- 🔭 I’m currently working at:
+
+  - [Version47](https://www.version47.com/)
+  - [Opensource Contributor](null)
+
+- 🤔 I've worked at:
+
+  - [Lucid Edge](https://lucidedge.com.au/)
+  - [Motion Designer](https://www.upwork.com/freelancers/~0174a1969954d630af)
+
+- 🌱 I’m currently learning:
+
+  - Rust
+  - Azure Cloud
+  - DeFi & Blockchain Protocols
+
+- 📫 How to reach me:
+
+  - Email: martian599@gmail.com
+  - [Twitter](https://twitter.com/taimurey)
+  - [Upwork](https://www.upwork.com/freelancers/~0174a1969954d630af)
+
+- ⚡ Fun fact:
+  - I am not funny, so no fun facts here
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taimurey&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taimurey" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <a href="https://twitter.com/taimurey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/taimoormoonitee/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taimurey" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/taimoorshafique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="taimurey" height="30" width="30" /></a>
+<a href="https://www.instagram.com/taimurey/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taimurey" height="30" width="30" /></a>
+  <a href="taimurey.mdeium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tamurey" height="30" width="30" /></a>
+</p>
+<p align="center">---------------------------------------------------------------------------</p>
+
+Created by [Taimoor](https://github.com/taimurey)
+
+Last Edited on: 27/05/2023
