@@ -22,10 +22,6 @@ I'm a backend engineer specialized in Rust and machine learning, passionate abou
   - [Version47](https://www.version47.com/)
   - [Opensource Contributor](null)
 
-- 🤔 I've worked at:
-
-  - [Lucid Edge](https://lucidedge.com.au/)
-  - [Motion Designer](https://www.upwork.com/freelancers/~0174a1969954d630af)
 
 - 🌱 I’m currently learning:
 
