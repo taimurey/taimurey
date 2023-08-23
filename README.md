@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 I'm a backend engineer specialized in Rust and machine learning, passionate about cloud development and web3 off-chain protocols.
 
-- 🔭 I’m currently working at:
+- 🔭 I’m currently working as:
 
-  - [Version47](https://www.version47.com/)
   - [Opensource Contributor](null)
 
 
