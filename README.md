@@ -20,6 +20,7 @@ I'm a backend engineer specialized in Rust and machine learning, passionate abou
 - 🔭 I’m currently working as:
 
   - [Opensource Contributor](null)
+  - Dev @ [Mevarik](https://discord.gg/DcxHZG5NCN) 
 
 
 - 🌱 I’m currently learning:
