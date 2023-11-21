@@ -25,9 +25,8 @@ I'm a backend engineer specialized in Rust and machine learning, passionate abou
 
 - 🌱 I’m currently learning:
 
-  - Rust
-  - Azure Cloud
-  - DeFi & Blockchain Protocols
+   - TypeScript
+   - Rust
 
 - 📫 How to reach me:
 
