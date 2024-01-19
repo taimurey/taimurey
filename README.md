@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a backend engineer specialized in Rust and machine learning, passionate about cloud development and web3 off-chain protocols.
+I'm a backend engineer specializing in Rust and machine learning, passionate about cloud development and web3 off-chain protocols. I have been working on Solana Token Programs and Anchor-Lang.
 
 - 🔭 I’m currently working as:
 
   - [Opensource Contributor](null)
-  - Owner @ [Mevarik](https://discord.gg/DcxHZG5NCN) 
 
+- Projects:
+- 
+  - [Mevarik](https://discord.gg/DcxHZG5NCN)
+  - [Bamboo Bow](
 
 - 🌱 I’m currently learning:
 
