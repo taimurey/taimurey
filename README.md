@@ -26,7 +26,7 @@ I'm a backend engineer specializing in Rust and machine learning, passionate abo
   - [Mevarik](https://discord.gg/DcxHZG5NCN)
   - [Bamboo Bow](https://t.me/bamboobow_bot)
 
-- 🌱 I’m currently learning:
+- ⌨️ I develop in:
 
    - TypeScript
    - Rust
