@@ -34,8 +34,6 @@ I'm a backend engineer specializing in Rust and machine learning, passionate abo
 - 📫 How to reach me:
 
   - Email: martian599@gmail.com
-  - [Twitter](https://twitter.com/taimurey)
-  - [Upwork](https://www.upwork.com/freelancers/~0174a1969954d630af)
 
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
