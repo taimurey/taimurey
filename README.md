@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a backend engineer specializing in Rust and machine learning, passionate about cloud development and web3 off-chain protocols. I have been working on Solana Token Programs and Anchor-Lang.
-
-- 🔭 I’m currently working as:
-
-  - [Opensource Contributor](null)
+I am a backend engineer with extensive experience in Rust and on-chain Anchor programs for Solana. I also have significant expertise in Node.js and specialize in building both on-chain programs and off-chain bots for seamless interaction with blockchain networks.
 
 - Projects:
  
-  - [Mevarik](https://discord.gg/DcxHZG5NCN)
+  - [Mevarik](https://mevarik.com)
   - [Bamboo Bow](https://t.me/bamboobow_bot)
 
 - ⌨️ I develop in:
 
    - TypeScript
    - Rust
+   - Python
 
 - 📫 How to reach me:
 
