@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a backend engineer with extensive experience in Rust and on-chain Anchor programs for Solana. I also have significant expertise in Node.js and specialize in building both on-chain programs and off-chain bots for seamless interaction with blockchain networks.
+I am a backend engineer with extensive experience in Rust and on-chain Anchor programs for Solana. I also have significant expertise in Node.js, python and specialize in building both on-chain programs and machine learning applications able to handle any loads efficiently.
 
 - Projects:
  
