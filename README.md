@@ -18,19 +18,23 @@ Here are some ideas to get you started:
 I am a backend engineer with extensive experience in Rust and on-chain Anchor programs for Solana. I also have significant expertise in Node.js, python and specialize in building both on-chain programs and machine learning applications able to handle any loads efficiently.
 
 - Projects:
- 
+
+  - [Bundler Space](https://bundler.space)
+  - [Corn](https://corn.ag) Wip
   - [Mevarik](https://mevarik.com)
   - [Bamboo Bow](https://t.me/bamboobow_bot)
 
 - ⌨️ I develop in:
 
-   - TypeScript
    - Rust
+   - Nextjs
    - Python
+   - TypeScript
 
 - 📫 How to reach me:
 
   - Email: martian599@gmail.com
+  - Discord: tamurey
 
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
@@ -50,4 +54,3 @@ I am a backend engineer with extensive experience in Rust and on-chain Anchor pr
 
 Created by [Taimoor](https://github.com/taimurey)
 
-Last Edited on: 27/05/2023
