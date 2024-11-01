@@ -6,11 +6,11 @@ I'm a **Backend Engineer** with deep expertise in Rust and on-chain Anchor progr
 
 - **[Bundler Space](https://bundler.space)** – A streamlined platform for efficient transaction bundling and compression.
 - **[Corn](https://corn.ag)** (WIP) – Social Finance orderbook.
-- **[Mevarik](https://mevarik.com)** – Ethereum and Solana Trading Bot with Custom programs.
-- **[Bamboo Bow](https://t.me/bamboobow_bot)** – Telegram-based bot for streamlined workflows.
+- **[Mevarik](https://mevarik.com)** – Telegram-based platform for streamlined workflows.
+- **[Bamboo Bow](https://t.me/bamboobow_bot)** – Ethereum and Solana Trading Bot with Custom programs.
 
 ## Tech Stack
-- **Languages:** C++,Rust, Flutter, Python, TypeScript
+- **Languages:** C++, Rust, Flutter, Python, TypeScript
 - **Frameworks and Tools:** Next.js, Anchor, and various ML libraries
 
 ## Contact
