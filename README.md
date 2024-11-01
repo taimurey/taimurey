@@ -1,6 +1,6 @@
 # Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Backend Engineer** with deep expertise in Rust and on-chain Anchor programs for Solana. I bring strong experience in Node.js and Python, specializing in building on-chain solutions and scalable machine learning applications optimized for high-performance workloads.
+I'm a **Backend Engineer** with deep expertise in Rust and on-chain Anchor programs for Solana. I bring strong experience in Rust, Node.js and Python, specializing in building on-chain solutions and scalable machine learning applications optimized for high-performance workloads.
 
 ## Featured Projects
 
