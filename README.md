@@ -15,7 +15,7 @@ I'm a **Backend Engineer** with deep expertise in Rust and on-chain Anchor progr
 
 ## Contact
 Feel free to connect with me for collaboration or inquiries:
-- **Email:** tamur@sodahq.com
+- **Email:** taimoorshafique541@gmail.com
 - **Discord:** tamurey
 
 ## Connect with Me
